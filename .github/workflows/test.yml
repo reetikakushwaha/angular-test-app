@@ -34,7 +34,7 @@ jobs:
         run: npm ci
 
       - name: Build Angular app
-        run: ng build --configuration production --base-href "/my-angular-app/"
+        run: ng build --configuration production --base-href "/angular-test-app/"
 
 
       - name: Upload dist as artifact
