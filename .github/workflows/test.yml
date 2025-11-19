@@ -9,6 +9,10 @@ on:
     branches:
       - main
   workflow_dispatch:
+permissions:
+    contents: write   # allow pushing to gh-pages
+    pages: write      # allow deployment to GitHub Pages
+    id-token: write 
 
 jobs:
   build:
