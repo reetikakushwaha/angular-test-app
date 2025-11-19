@@ -29,8 +29,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build (production)
-        run: ng build
+      - name: Build Angular app
+        run: ng build --configuration production --base-href "/my-angular-app/"
+
 
       - name: Upload dist as artifact
         uses: actions/upload-artifact@v4
