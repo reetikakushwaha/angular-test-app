@@ -1,0 +1,42 @@
+Date: 2025-11-19 05:35:01 PM | reetikakushwaha 
+Title : json fix 
+ ---------------------------   end --------------------------
+Date: 2025-11-19 05:17:22 PM | Reetika Kushwaha 
+Title : Update base-href for Angular app build 
+ ---------------------------   end --------------------------
+Date: 2025-11-19 05:05:45 PM | Reetika Kushwaha 
+Title : Update test.yml to include permissions for deployment 
+Add permissions for GitHub Pages deployment ---------------------------   end --------------------------
+Date: 2025-11-19 04:59:19 PM | Reetika Kushwaha 
+Title : Update build step for Angular app in CI workflow 
+ ---------------------------   end --------------------------
+Date: 2025-11-19 04:55:39 PM | reetikakushwaha 
+Title : build conflict resolve 
+ ---------------------------   end --------------------------
+Date: 2025-11-19 04:43:26 PM | Reetika Kushwaha 
+Title : Change build command to default configuration 
+ ---------------------------   end --------------------------
+Date: 2025-11-19 04:41:25 PM | Reetika Kushwaha 
+Title : Add production configuration to build step 
+ ---------------------------   end --------------------------
+Date: 2025-11-19 04:06:18 PM | Reetika Kushwaha 
+Title : Update build command in CI workflow 
+Changed build command to use default configuration. ---------------------------   end --------------------------
+Date: 2025-11-19 03:58:25 PM | reetikakushwaha 
+Title : angular.json fix 
+ ---------------------------   end --------------------------
+Date: 2025-11-19 03:51:39 PM | reetikakushwaha 
+Title : angular.json fix 
+ ---------------------------   end --------------------------
+Date: 2025-11-19 03:47:43 PM | reetikakushwaha 
+Title : angular.json fix 
+ ---------------------------   end --------------------------
+Date: 2025-11-19 03:16:45 PM | Reetika Kushwaha 
+Title : Modify workflow to include feature branches and deploy 
+Updated GitHub Actions workflow to support feature branches and added deploy job. ---------------------------   end --------------------------
+Date: 2025-11-19 03:10:04 PM | Reetika Kushwaha 
+Title : Add GitHub Actions workflow for Angular build and deploy 
+This workflow builds an Angular application and deploys it to GitHub Pages. ---------------------------   end --------------------------
+Date: 2025-11-19 02:58:09 PM | reetikakushwaha 
+Title : initial commit 
+ ---------------------------   end --------------------------
