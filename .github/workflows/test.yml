@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - feature/*   # optional: support multiple dev branches
+      
   pull_request:
     branches:
       - main
